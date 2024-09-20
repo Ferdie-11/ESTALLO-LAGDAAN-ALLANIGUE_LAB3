@@ -79,7 +79,17 @@ public class Clock {
   }
     scanner.close();
 }
-  
+  public static void displayMenu(){
+    System.out.println("[1] Seconds to Minutes");
+    System.out.println("[2] Seconds to Hours");
+    System.out.println("[3] Minutes to Seconds");
+    System.out.println("[4] Minutes to Hours");
+    System.out.println("[5] Hours to Seconds");
+    System.out.println("[6] Hours to Minutes");
+    System.out.println("Choose the conversion: ");
+
+}
+
 
 }
 
