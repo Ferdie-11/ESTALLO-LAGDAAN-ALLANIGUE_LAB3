@@ -26,7 +26,7 @@ public class Clock {
         return hours * 60;
     }
 
-	//main method
+	//main method....
 	public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
        boolean continueConversion = true; 
